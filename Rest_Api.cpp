@@ -1,3 +1,13 @@
+#include <QCoreApplication>
+#include <QDebug>
+#include <QNetworkAccessManager>
+#include <QNetworkRequest>
+#include <QNetworkReply>
+#include <QUrl>
+#include <QUrlQuery>
+//depen
+
+
 
 void sendRequest(){
 
